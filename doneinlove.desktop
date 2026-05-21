@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Done In Love
+Exec=/home/erika-aversa/doneinlove-qml/venv/bin/python3 /home/erika-aversa/doneinlove-qml/src/main.py %u
+StartupNotify=true
+NoDisplay=true
+SingleMainWindow=true
+MimeType=x-scheme-handler/com.doneinlove.auth;
