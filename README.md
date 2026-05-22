@@ -11,6 +11,9 @@ Share amazing memories with the ones you cherish most.
 Stay connected forever, even when you have to say goodbye.
 
 
+[![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/doneinlove.aversa-erika)
+
+
 ## Background
 
 Originally developed on Lovable. 
